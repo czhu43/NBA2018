@@ -1,0 +1,32 @@
+      team       experience        salary             points3         points2     
+ BRK    : 19   Min.   : 1.00   Min.   : 0.005145   Min.   :  0.0   Min.   :  0.0  
+ MIL    : 19   1st Qu.: 4.75   1st Qu.: 1.050961   1st Qu.:  2.0   1st Qu.: 30.0  
+ CLE    : 18   Median :12.00   Median : 3.000000   Median : 26.0   Median :100.0  
+ DAL    : 18   Mean   :10.44   Mean   : 5.804697   Mean   : 46.4   Mean   :142.3  
+ ORL    : 18   3rd Qu.:15.00   3rd Qu.: 8.269663   3rd Qu.: 73.0   3rd Qu.:208.0  
+ ATL    : 17   Max.   :18.00   Max.   :30.963450   Max.   :324.0   Max.   :730.0  
+ (Other):368   NA's   :85                                                         
+    points1           points        off_rebounds     def_rebounds      assists     
+ Min.   :  0.00   Min.   :   0.0   Min.   :  0.00   Min.   :  0.0   Min.   :  0.0  
+ 1st Qu.: 15.00   1st Qu.: 124.0   1st Qu.:  9.00   1st Qu.: 43.0   1st Qu.: 20.0  
+ Median : 50.00   Median : 403.0   Median : 29.00   Median :131.0   Median : 64.0  
+ Mean   : 86.49   Mean   : 510.3   Mean   : 48.86   Mean   :160.5   Mean   :109.7  
+ 3rd Qu.:116.00   3rd Qu.: 756.0   3rd Qu.: 63.00   3rd Qu.:222.0   3rd Qu.:144.0  
+ Max.   :746.00   Max.   :2558.0   Max.   :345.00   Max.   :816.0   Max.   :907.0  
+                                                                                   
+     steals           blocks         turnovers          fouls       
+ Min.   :  0.00   Min.   :  0.00   Min.   :  0.00   Min.   :  0.00  
+ 1st Qu.: 10.00   1st Qu.:  4.00   1st Qu.: 16.00   1st Qu.: 32.00  
+ Median : 30.00   Median : 13.00   Median : 50.00   Median : 95.00  
+ Mean   : 37.04   Mean   : 22.83   Mean   : 64.47   Mean   : 95.51  
+ 3rd Qu.: 54.00   3rd Qu.: 31.00   3rd Qu.: 94.00   3rd Qu.:145.00  
+ Max.   :157.00   Max.   :214.00   Max.   :464.00   Max.   :263.00  
+                                                                    
+   efficiency     
+ Min.   :-0.6667  
+ 1st Qu.: 5.0000  
+ Median : 8.3472  
+ Mean   : 9.5788  
+ 3rd Qu.:12.6066  
+ Max.   :33.8272  
+                  
